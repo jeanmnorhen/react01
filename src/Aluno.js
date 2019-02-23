@@ -6,7 +6,7 @@ class Aluno extends Component {
     return (
       <div>
             <h1>{aluno.nome}</h1>
-            <ul>idade: {aluno.idade}</ul>
+            <ul>idad e: {aluno.idade}</ul>
             <ul>matricula: {aluno.matricula}</ul>
       </div>
     );
